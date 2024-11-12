@@ -1,0 +1,20 @@
+Circuit: * Z:\home\butvinm\Dev\func-circuit\lt\lt\nand_test.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Nov 06 23:10:50 2024
+Total elapsed time: 0.127 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6298
+traniter = 6290
+tranpoints = 3101
+accept = 3085
+rejected = 16
+matrix size = 24
+fillins = 0
+solver = Normal
+Matrix Compiler1:     124 opcodes  0.4/0.2/[0.2]
+Matrix Compiler2: off
